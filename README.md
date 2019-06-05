@@ -1,6 +1,6 @@
 # ADVERSIAL_AUTOENCODER
 
-Implementation of paper (https://arxiv.org/abs/1511.05644) for my own research
+Implementation of paper (https://arxiv.org/abs/1511.05644) for my own research in Python 3 using Pytorch Library
 
 ![Paper](https://user-images.githubusercontent.com/51395380/58937435-0e82bc00-8790-11e9-80dd-44025701c9a2.png)
 
