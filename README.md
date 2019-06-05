@@ -5,7 +5,7 @@ Implementation of paper (https://arxiv.org/abs/1511.05644) for my own research
 ![Paper](https://user-images.githubusercontent.com/51395380/58937435-0e82bc00-8790-11e9-80dd-44025701c9a2.png)
 
 ### Data
-MNIST data set   ( dimensions of each image 28*28*1)
+MNIST data set   ( dimensions of each image 28 * 28 * 1)
 
 ### Model Discription
 Adversial Autoencoder has 3 types of network  A ) Encoder B) Decoder  C) Discriminator
