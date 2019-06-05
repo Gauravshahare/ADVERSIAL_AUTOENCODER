@@ -7,7 +7,7 @@ Implementation of paper (https://arxiv.org/abs/1511.05644) for my own research i
 ### Data
 MNIST data set   ( dimensions of each image 28 * 28 * 1)
 
-### Model Discription
+### Model Description
 Adversial Autoencoder has 3 types of network  A ) Encoder B) Decoder  C) Discriminator
 
 Encoder Network compresses the image in into bottleneck layer (Assuming the input to network are coorelated),it learns Latent Features.
