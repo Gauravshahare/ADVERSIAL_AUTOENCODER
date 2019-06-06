@@ -27,7 +27,7 @@ DECODER       2 ==> 100 ==> 400 ==> 784
 
 DISCRIMINATOR  2 ==> 10 ==> 10 ==> 2
 
-If you look at the way the network has trainied you will find encoder and discriminator are competing with each other which  forces the output from bottle neck layer to follow prior distribution 
+If you look at the way the network has trained you will find encoder and discriminator are competing with each other which  forces the output from bottle neck layer to follow prior distribution 
 
 ### Result
 
