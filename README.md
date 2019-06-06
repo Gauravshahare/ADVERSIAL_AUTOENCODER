@@ -8,6 +8,7 @@ Implementation of paper (https://arxiv.org/abs/1511.05644) for my own research i
 MNIST data set   ( dimensions of each image 28 * 28 * 1)
 
 ### Model Description
+
 Adversial Autoencoder has 3 types of network  A ) Encoder B) Decoder  C) Discriminator
 
 Encoder Network compresses the image in into bottleneck layer (Assuming the input to network are coorelated),it learns Latent Features.
@@ -16,7 +17,7 @@ Decoder Network takes input from encoder network, it reconstructs the image from
 
 Discriminator Network distinguses between fake data and real data.
 
-We are using bivarient Noraml Distribution as our Prior distribution.
+We are using Bivarient Normal distribution as our Prior distribution.
 
 
 ### Network Architecture
