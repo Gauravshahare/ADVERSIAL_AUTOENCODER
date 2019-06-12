@@ -29,6 +29,9 @@ DISCRIMINATOR  2 ==> 10 ==> 10 ==> 2
 
 If you look at the way the network has trained you will find encoder and discriminator are competing with each other which  forces the output from bottle neck layer to follow prior distribution 
 
+Model was trained on Google Colaboratory.
+
+
 ### Result
 
 ![result](https://user-images.githubusercontent.com/51395380/58938463-818d3200-8792-11e9-85e3-a2874ae0dfc0.PNG)
